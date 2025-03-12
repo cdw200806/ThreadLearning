@@ -6,6 +6,11 @@ import static java.lang.Thread.sleep;
 // then press Enter. You can now see whitespace characters in your code.
 public class Cat2 implements Runnable {
 
+
+    public void miao() {
+
+    }
+
     @Override
     public void run() {
 
